@@ -1,5 +1,5 @@
-# Thesis
-Shape Optimisation of a Li-Ion Satellite Battery Structure and Mass-Spring-Damper
+# Thesis: Shape Optimisation of a Li-Ion Satellite Battery Structure and Mass-Spring-Damper
+
 - Chapter 1: Introduction
 - Chapter 2: Literature Review
 - Chapter 3: Abaqus and iSight Setup (Engineering Analysis Software)
