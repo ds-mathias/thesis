@@ -8,5 +8,6 @@ Shape Optimisation of a Li-Ion Satellite Battery Structure and Mass-Spring-Dampe
 - Chapter 6: Baseline Battery Optimisation
 - Chapter 7: Conclusions
 
-Grade Achieved: 1st Class 
+Grade Achieved: 1st Class
+
 Awards: IMechE Best Project Certificate
