@@ -10,6 +10,8 @@ This project was sponsored industrially by ABSL-EnergySys. The aim of the projec
 
 ![](https://github.com/ds-mathias/thesis/blob/main/FNF_.JPG)
 
+Key outcome: Reduced the structural vibrational frequency by 18.12%, improving the survivability during rocket launch.
+
 Grade Achieved: 1st Class (81%)
 
 Awards: IMechE Best Project Certificate
